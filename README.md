@@ -6,7 +6,7 @@ This repository contains my **portfolio version of a college group project**, wh
 
 ## 🌐 Live Demo
 
-**Try TweetLens here:** [Open Live App]([YOUR_STREAMLIT_APP_URL](https://tweetlens-8wcnatwmc4adkrwcd8xqsx.streamlit.app/))
+[✨ Try TweetLens here!](https://tweetlens-8wcnatwmc4adkrwcd8xqsx.streamlit.app/)
 
 ## 📌 Project Background
 
