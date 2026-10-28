@@ -117,7 +117,7 @@ The objective of TweetLens is to demonstrate how NLP techniques and data visuali
 
 ## 👩‍💻 Author
 
-**Dhriti**
+**Dhritileena Roy**
 
 GitHub: [@dhritiiixpaw](https://github.com/dhritiiixpaw)
 
